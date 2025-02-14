@@ -1520,10 +1520,22 @@
 		(uuid "0f034890-21f0-464f-843f-d4c35fbe5a05")
 	)
 	(junction
+		(at 69.85 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "104071dc-cdbd-4740-b042-f6a177b9ce4e")
+	)
+	(junction
 		(at 153.67 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "17d7d195-e39d-4eaf-947d-71456e5e3104")
+	)
+	(junction
+		(at 53.34 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f1c6154-633b-436e-91d9-5f3639cb9ab0")
 	)
 	(junction
 		(at 171.45 100.33)
@@ -1532,10 +1544,10 @@
 		(uuid "215541f1-ef9d-40fe-8230-390909aee2e2")
 	)
 	(junction
-		(at 53.34 104.14)
+		(at 53.34 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2efde3cf-bd85-4364-8d51-ad2fb4132319")
+		(uuid "3beb8db3-7c54-4765-bc57-2d89d8db3233")
 	)
 	(junction
 		(at 64.77 91.44)
@@ -1548,12 +1560,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "40059312-e3af-4e04-b94c-2147f2d3f5c0")
-	)
-	(junction
-		(at 53.34 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "44435f5d-3780-4545-8bfd-7befe042feea")
 	)
 	(junction
 		(at 146.05 115.57)
@@ -1586,6 +1592,18 @@
 		(uuid "59407411-1327-42ec-b08a-05fb63aa66b5")
 	)
 	(junction
+		(at 69.85 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5b188c25-a3b6-4b8e-9b13-7dbdc2cd8f30")
+	)
+	(junction
+		(at 53.34 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "688cb6be-8ce6-443b-8c26-5575762a1816")
+	)
+	(junction
 		(at 120.65 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1616,12 +1634,6 @@
 		(uuid "9413950b-6b93-4c43-9db0-a84b33a4e897")
 	)
 	(junction
-		(at 53.34 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a80a074d-c428-4a52-934b-e54c3c455ca7")
-	)
-	(junction
 		(at 196.85 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1640,12 +1652,6 @@
 		(uuid "b71c2619-4a11-4397-a849-29201d91401a")
 	)
 	(junction
-		(at 69.85 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bb7ff399-a140-45f7-aa90-f2f7edd07822")
-	)
-	(junction
 		(at 171.45 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1658,10 +1664,10 @@
 		(uuid "c525a5e7-d0ab-4838-a98b-ac3e720c615d")
 	)
 	(junction
-		(at 69.85 83.82)
+		(at 69.85 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c6795554-8207-4b80-beaf-33713602c404")
+		(uuid "d16f93bd-7b50-4bd1-8231-f3946ff7bbf1")
 	)
 	(junction
 		(at 146.05 125.73)
@@ -1680,12 +1686,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f63cedde-ec43-4850-8331-3bc0ea977ac4")
-	)
-	(junction
-		(at 69.85 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f92b82a3-e39a-43c6-9bb3-f1e5cbec44a2")
 	)
 	(junction
 		(at 146.05 100.33)
@@ -1729,16 +1729,6 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 104.14) (xy 53.34 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "09aa784a-2038-4e94-afe4-ca08f54b34da")
-	)
-	(wire
-		(pts
 			(xy 153.67 107.95) (xy 163.83 107.95)
 		)
 		(stroke
@@ -1755,7 +1745,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "1fd56adc-79d1-4854-80b6-4610738b28d7")
+		(uuid "236853da-9274-458c-b6a9-9743993da616")
 	)
 	(wire
 		(pts
@@ -1809,7 +1799,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 104.14) (xy 78.74 104.14)
+			(xy 36.83 104.14) (xy 53.34 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1879,13 +1869,13 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 124.46) (xy 53.34 124.46)
+			(xy 69.85 124.46) (xy 78.74 124.46)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4adec4d7-eec3-4f13-934a-62730589a8f4")
+		(uuid "5021e8b7-7aa4-4fa2-beba-3f3fec2a59e5")
 	)
 	(wire
 		(pts
@@ -1949,23 +1939,23 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 83.82) (xy 69.85 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73e271dd-11ea-41d6-80f4-ca2ebe6ab096")
+	)
+	(wire
+		(pts
 			(xy 53.34 124.46) (xy 69.85 124.46)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6c2324e7-5bf2-41f5-9863-83f306ecf148")
-	)
-	(wire
-		(pts
-			(xy 36.83 83.82) (xy 53.34 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7cc8ea12-4c03-4608-9ab1-9312ceb584c6")
+		(uuid "8754d867-ca90-4757-9e6c-e92909a6a6a0")
 	)
 	(wire
 		(pts
@@ -1999,13 +1989,23 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 124.46) (xy 78.74 124.46)
+			(xy 36.83 124.46) (xy 53.34 124.46)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9a116db1-3c26-4c75-aca7-0824cccc9092")
+	)
+	(wire
+		(pts
+			(xy 69.85 83.82) (xy 78.74 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2274a56-d526-4b48-8f32-a238f4ce761d")
 	)
 	(wire
 		(pts
@@ -2049,6 +2049,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 104.14) (xy 78.74 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "beb81b3f-046e-42bc-9e33-d058dea44608")
+	)
+	(wire
+		(pts
 			(xy 153.67 45.72) (xy 151.13 45.72)
 		)
 		(stroke
@@ -2076,16 +2086,6 @@
 			(type default)
 		)
 		(uuid "c0971507-84a1-4aff-9aa3-96c54b20235c")
-	)
-	(wire
-		(pts
-			(xy 53.34 83.82) (xy 69.85 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4ca4eee-811f-4508-9817-fb5c3bc61f7b")
 	)
 	(wire
 		(pts
@@ -2199,7 +2199,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 83.82) (xy 78.74 83.82)
+			(xy 36.83 83.82) (xy 53.34 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2735,94 +2735,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
-		(at 53.34 100.33 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0b302dd3-f940-4613-a5a7-f4a795eca94a")
-		(property "Reference" "D5"
-			(at 55.88 99.0599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 55.88 101.5999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "DiodeLibrary:Diode-Hybrid-Dual"
-			(at 53.34 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 53.34 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 53.34 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 53.34 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 53.34 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "169bf9e8-17de-42d5-99a5-fc132a163cac")
-		)
-		(pin "2"
-			(uuid "962610b9-8d4f-4e7e-bbbb-35b971ac714f")
-		)
-		(instances
-			(project "kawaiipad_pcb"
-				(path "/56574396-076e-491b-8b9c-05c94670ae85"
-					(reference "D5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LED:SK6812MINI")
 		(at 120.65 107.95 0)
 		(unit 1)
@@ -3213,6 +3125,182 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148")
+		(at 53.34 100.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "37eae722-c37c-4662-8138-54aa18b2f38b")
+		(property "Reference" "D5"
+			(at 55.88 99.0599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 55.88 101.5999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 53.34 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 53.34 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 53.34 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 53.34 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 53.34 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9d24d20-8bfc-48ff-8b6c-13817ba13bb8")
+		)
+		(pin "2"
+			(uuid "e7dfeeee-0f15-4172-85d9-675f62f94eb7")
+		)
+		(instances
+			(project "kawaiipad_pcb"
+				(path "/56574396-076e-491b-8b9c-05c94670ae85"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 69.85 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "39258b19-70af-4bc2-bb86-fa6504ffeebf")
+		(property "Reference" "D3"
+			(at 72.39 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 72.39 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 69.85 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 69.85 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 69.85 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 69.85 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 69.85 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "271fdab0-4ce0-4f66-8d7b-2796b627b505")
+		)
+		(pin "2"
+			(uuid "c8573fdb-28cd-4d07-b546-6a5a1ae94877")
+		)
+		(instances
+			(project "kawaiipad_pcb"
+				(path "/56574396-076e-491b-8b9c-05c94670ae85"
+					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:SK6812MINI")
 		(at 222.25 107.95 0)
 		(unit 1)
@@ -3355,6 +3443,182 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148")
+		(at 69.85 100.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "497b4871-84a6-4c1d-8b96-c427c6359386")
+		(property "Reference" "D6"
+			(at 72.39 99.0599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 72.39 101.5999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 69.85 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 69.85 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 69.85 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 69.85 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 69.85 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b47a2d95-60e6-43d3-8949-27e4126a987a")
+		)
+		(pin "2"
+			(uuid "b8bd2afb-3987-48b7-8e6d-e1124415f4fd")
+		)
+		(instances
+			(project "kawaiipad_pcb"
+				(path "/56574396-076e-491b-8b9c-05c94670ae85"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 36.83 100.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "49a0ab1e-9331-4383-a469-c79928177592")
+		(property "Reference" "D4"
+			(at 39.37 99.0599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 39.37 101.5999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 36.83 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 36.83 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 36.83 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 36.83 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 36.83 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d20bd991-aca0-4015-9f0f-916ba716ed45")
+		)
+		(pin "2"
+			(uuid "2a4c7b59-ed6b-4aa6-ae5e-6ff838ac611b")
+		)
+		(instances
+			(project "kawaiipad_pcb"
+				(path "/56574396-076e-491b-8b9c-05c94670ae85"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 34.29 93.98 0)
 		(unit 1)
@@ -3417,94 +3681,6 @@
 			(project "kawaiipad_pcb"
 				(path "/56574396-076e-491b-8b9c-05c94670ae85"
 					(reference "SW4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 69.85 120.65 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "53f2389e-4410-484e-bc44-b0df6165fb23")
-		(property "Reference" "D9"
-			(at 72.39 119.3799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 72.39 121.9199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "DiodeLibrary:Diode-Hybrid-Dual"
-			(at 69.85 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 69.85 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 69.85 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 69.85 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 69.85 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7ceefa22-cef3-4b6f-bfdd-a291f5282513")
-		)
-		(pin "2"
-			(uuid "042b9c15-cf0a-4410-81dc-a2a3fdaa7fd8")
-		)
-		(instances
-			(project "kawaiipad_pcb"
-				(path "/56574396-076e-491b-8b9c-05c94670ae85"
-					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -3655,94 +3831,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
-		(at 53.34 80.01 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "663c142a-6d95-4b0e-8f01-2549188afc53")
-		(property "Reference" "D2"
-			(at 55.88 78.7399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 55.88 81.2799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "DiodeLibrary:Diode-Hybrid-Dual"
-			(at 53.34 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 53.34 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 53.34 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 53.34 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 53.34 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4dc3afdc-240b-47db-99b4-2dd54ef11a29")
-		)
-		(pin "2"
-			(uuid "4f222912-d9f9-4bce-bf6a-5b842323f6ea")
-		)
-		(instances
-			(project "kawaiipad_pcb"
-				(path "/56574396-076e-491b-8b9c-05c94670ae85"
-					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LED:SK6812MINI")
 		(at 171.45 107.95 0)
 		(unit 1)
@@ -3820,16 +3908,16 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 36.83 120.65 90)
+		(at 69.85 120.65 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "705ca41c-a713-4ad6-b3d8-153a04a01a5a")
-		(property "Reference" "D7"
-			(at 39.37 119.3799 90)
+		(uuid "7a809274-2fc5-4db9-973c-bc455b5f5eae")
+		(property "Reference" "D9"
+			(at 72.39 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3838,7 +3926,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 39.37 121.9199 90)
+			(at 72.39 121.9199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3846,8 +3934,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "DiodeLibrary:Diode-Hybrid-Dual"
-			(at 36.83 120.65 0)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 69.85 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3856,7 +3944,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 36.83 120.65 0)
+			(at 69.85 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3865,7 +3953,7 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 36.83 120.65 0)
+			(at 69.85 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3874,7 +3962,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 36.83 120.65 0)
+			(at 69.85 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3883,7 +3971,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 36.83 120.65 0)
+			(at 69.85 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3892,15 +3980,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "99573061-4ee7-4a47-89cb-7d6f4c9cfb7b")
+			(uuid "b06c5935-ad13-421b-bf5f-7c9c92478103")
 		)
 		(pin "2"
-			(uuid "52d1446f-04ac-4ad3-bf4c-595b4badca4d")
+			(uuid "6c299de1-bce1-494b-b478-c3341c0aa5de")
 		)
 		(instances
 			(project "kawaiipad_pcb"
 				(path "/56574396-076e-491b-8b9c-05c94670ae85"
-					(reference "D7")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -3983,94 +4071,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
-		(at 69.85 100.33 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "98dca82d-6f88-49cc-a2a1-60acf1ba164f")
-		(property "Reference" "D6"
-			(at 72.39 99.0599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 72.39 101.5999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "DiodeLibrary:Diode-Hybrid-Dual"
-			(at 69.85 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 69.85 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 69.85 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 69.85 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 69.85 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dbfed9bd-0e49-4066-a173-bdbd1fc7a4d8")
-		)
-		(pin "2"
-			(uuid "20a631f2-16d0-44d2-89b3-15ea474b36f4")
-		)
-		(instances
-			(project "kawaiipad_pcb"
-				(path "/56574396-076e-491b-8b9c-05c94670ae85"
-					(reference "D6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LED:SK6812MINI")
 		(at 171.45 133.35 180)
 		(unit 1)
@@ -4147,6 +4147,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148")
+		(at 53.34 120.65 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9f60e50c-67ce-4e21-ab1b-a2ce76a721ba")
+		(property "Reference" "D8"
+			(at 55.88 119.3799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 55.88 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 53.34 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 53.34 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 53.34 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 53.34 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 53.34 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a1b1ca8d-c2e2-4aaf-8fbb-00c95926dd24")
+		)
+		(pin "2"
+			(uuid "4222cb4e-5a7e-4274-be01-f9106eb4f9db")
+		)
+		(instances
+			(project "kawaiipad_pcb"
+				(path "/56574396-076e-491b-8b9c-05c94670ae85"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 153.67 49.53 180)
 		(unit 1)
@@ -4208,94 +4296,6 @@
 			(project "kawaiipad_pcb"
 				(path "/56574396-076e-491b-8b9c-05c94670ae85"
 					(reference "#FLG02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 69.85 80.01 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a6723ba6-73ca-45b2-bf51-8f65b669fb4a")
-		(property "Reference" "D3"
-			(at 72.39 78.7399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 72.39 81.2799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "DiodeLibrary:Diode-Hybrid-Dual"
-			(at 69.85 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 69.85 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 69.85 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 69.85 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 69.85 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "57b149f7-e70f-432f-a784-963ed064202f")
-		)
-		(pin "2"
-			(uuid "e1e7bf00-91fd-4b14-a9f6-31699c97278d")
-		)
-		(instances
-			(project "kawaiipad_pcb"
-				(path "/56574396-076e-491b-8b9c-05c94670ae85"
-					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -4370,94 +4370,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
-		(at 36.83 80.01 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ac336a24-999c-4cfb-9a5b-1c3949cc6373")
-		(property "Reference" "D1"
-			(at 39.37 78.7399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 39.37 81.2799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "DiodeLibrary:Diode-Hybrid-Dual"
-			(at 36.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 36.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 36.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 36.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 36.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "72a4783d-927e-4865-a3ab-6f869a1fc98d")
-		)
-		(pin "2"
-			(uuid "031840ba-6928-493b-ba81-6729ec866632")
-		)
-		(instances
-			(project ""
-				(path "/56574396-076e-491b-8b9c-05c94670ae85"
-					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 50.8 114.3 0)
 		(unit 1)
@@ -4520,6 +4432,94 @@
 			(project "kawaiipad_pcb"
 				(path "/56574396-076e-491b-8b9c-05c94670ae85"
 					(reference "SW8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 53.34 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ad4726f6-52c6-4f86-890d-85f6c035ec58")
+		(property "Reference" "D2"
+			(at 55.88 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 55.88 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 53.34 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 53.34 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 53.34 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 53.34 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 53.34 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "720ac6e1-6e9f-4651-9b4d-be43b8e035b1")
+		)
+		(pin "2"
+			(uuid "f5ec209f-4f15-4d9c-82dd-aedb3de6c215")
+		)
+		(instances
+			(project "kawaiipad_pcb"
+				(path "/56574396-076e-491b-8b9c-05c94670ae85"
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -4805,6 +4805,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148")
+		(at 36.83 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "da0fceb7-d33d-4a6b-a1e7-b74239b15fb4")
+		(property "Reference" "D1"
+			(at 39.37 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 39.37 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 36.83 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 36.83 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 36.83 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 36.83 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 36.83 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "45ab7f32-ad0a-42da-b7d9-efb178b513d6")
+		)
+		(pin "2"
+			(uuid "2a4a4211-408c-4bed-97d8-0e4073239b7e")
+		)
+		(instances
+			(project ""
+				(path "/56574396-076e-491b-8b9c-05c94670ae85"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 50.8 93.98 0)
 		(unit 1)
@@ -4941,94 +5029,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
-		(at 36.83 100.33 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "eaeda732-1805-4be9-962a-17c2762c1dd5")
-		(property "Reference" "D4"
-			(at 39.37 99.0599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 39.37 101.5999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "DiodeLibrary:Diode-Hybrid-Dual"
-			(at 36.83 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 36.83 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 36.83 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 36.83 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 36.83 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8bafb446-3953-420c-83db-1eb8ec8c1954")
-		)
-		(pin "2"
-			(uuid "5412ae5f-8684-4faf-8282-0e2d363a657d")
-		)
-		(instances
-			(project "kawaiipad_pcb"
-				(path "/56574396-076e-491b-8b9c-05c94670ae85"
-					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LED:SK6812MINI")
 		(at 146.05 133.35 180)
 		(unit 1)
@@ -5106,16 +5106,16 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 53.34 120.65 90)
+		(at 36.83 120.65 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ef98b206-d68f-4fd4-b8de-5279087927c0")
-		(property "Reference" "D8"
-			(at 55.88 119.3799 90)
+		(uuid "ff4b2396-13e3-49b1-8bca-869f4e4d664a")
+		(property "Reference" "D7"
+			(at 39.37 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5124,7 +5124,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 55.88 121.9199 90)
+			(at 39.37 121.9199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5132,8 +5132,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "DiodeLibrary:Diode-Hybrid-Dual"
-			(at 53.34 120.65 0)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 36.83 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5142,7 +5142,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 53.34 120.65 0)
+			(at 36.83 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5151,7 +5151,7 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 53.34 120.65 0)
+			(at 36.83 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5160,7 +5160,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 53.34 120.65 0)
+			(at 36.83 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5169,7 +5169,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 53.34 120.65 0)
+			(at 36.83 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5178,15 +5178,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "ee85ea29-b8c7-4566-bec2-19abe04cb4f0")
+			(uuid "d050feba-95e5-4e27-8565-5a2ff7b58d2e")
 		)
 		(pin "2"
-			(uuid "e5144738-9f23-44e0-a9b9-4cebec8a2af7")
+			(uuid "21cc95a2-58fa-47d3-819a-32c16022aa73")
 		)
 		(instances
 			(project "kawaiipad_pcb"
 				(path "/56574396-076e-491b-8b9c-05c94670ae85"
-					(reference "D8")
+					(reference "D7")
 					(unit 1)
 				)
 			)

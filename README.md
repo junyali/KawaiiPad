@@ -5,10 +5,13 @@ Designed in KiCAD, Fusion360, and QMK Firmware
 
 ## Concept
 
-![PCB Design](./demo/pcb_design.png)
-![PCB Front Render](./demo/pcb_front_render.png)
-![PCB Back Render](./demo/pcb_back_render.png)
-![Case Design](./demo/case_render.png)
+| Demo             |                      Image                       |
+|------------------|:------------------------------------------------:|
+| Schematic        |        ![Schematic](./demo/schematic.png)        |
+| PCB Design       |       ![PCB Design](./demo/pcb_design.png)       |
+| PCB Front Render | ![PCB Front Render](./demo/pcb_front_render.png) |
+| PCB Back Render  |  ![PCB Back Render](./demo/pcb_back_render.png)  |
+| Case Render      |      ![Case Design](./demo/case_render.png)      |  
 
 ## BOM
 

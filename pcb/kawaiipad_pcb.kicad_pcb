@@ -7,6 +7,9 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "KawaiiPad")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(31 "B.Cu" signal)
@@ -9426,7 +9429,7 @@
 		(uuid "efe4f9c5-a538-4cc2-b392-6d1a0f52407a")
 		(at 130 62)
 		(property "Reference" "G***"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "ba735206-fa6a-4988-ac12-17da2b3af177")
@@ -9438,7 +9441,7 @@
 			)
 		)
 		(property "Value" "LOGO"
-			(at 0.75 0 360)
+			(at 0.75 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "3726f6f3-ab1f-448a-bec9-c47372d97944")
@@ -9450,7 +9453,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "343a3830-fe3e-443c-8937-9585a1eae77e")
@@ -9462,7 +9465,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "debf1de7-5713-414e-8f29-d5d77048b8ea")
@@ -9474,7 +9477,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "713fb956-9805-4829-85bf-bae42c91d7cf")

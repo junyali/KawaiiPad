@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.8*%
+%TF.CreationDate,2025-02-15T18:33:02+00:00*%
+%TF.ProjectId,kawaiipad_pcb,6b617761-6969-4706-9164-5f7063622e6b,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.8) date 2025-02-15 18:33:02*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X119062500Y-48990000D02*
+X190500000Y-48990000D01*
+X190500000Y-138112500D01*
+X119062500Y-138112500D01*
+X119062500Y-48990000D01*
+M02*

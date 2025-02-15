@@ -483,7 +483,7 @@
       "plot": "pcbgerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "D:/kawaiipad_pcb.step",
+      "step": "kawaiipad_pcb.step",
       "svg": "",
       "vrml": ""
     },
